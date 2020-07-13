@@ -1,3 +1,4 @@
+<strong>*만약 위 파일의 로딩에 실패한다면->https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Survey/blob/master/Kaggle%20ML%20%26%20DS%20Survey%202017%20%EB%B6%84%EC%84%9D.ipynb</strong>
 # Kaggle-Survey
 - 2017년에 캐글러를 대상으로 진행한 설문조사결과에 대해 분석했다.
 <br>
